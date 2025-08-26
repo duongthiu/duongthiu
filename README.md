@@ -65,3 +65,4 @@ As a FullStack Web Developer in Ho Chi Minh City, I specialize in crafting innov
   <img align="center" style="margin:0.4rem" src="https://github-readme-streak-stats.herokuapp.com/?user=duongthiu&theme=dracula" alt="duongthiu's GitHub Streak" />
 </a>
 
+![snake_gif](https://github.com/duongthiu/duongthiu/blob/output/github-contribution-grid-snake-dark.svg)
